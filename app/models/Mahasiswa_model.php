@@ -5,8 +5,7 @@
 class Mahasiswa_model
 {
 
-    private $dbh;
-    private $stmt;
+    private $table;
 
     private $mhs = [
 
